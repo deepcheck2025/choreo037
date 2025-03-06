@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"eeaea12a-cee3-4e99-8efe-6a75978aa03e",
+                        "id":"cf5fea79-3cbb-4d44-beb7-40741d62f04a",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -45,7 +45,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"eeaea12a-cee3-4e99-8efe-6a75978aa03e"
+                        "id":"cf5fea79-3cbb-4d44-beb7-40741d62f04a"
                     }
                 ],
                 "decryption":"none"
@@ -62,7 +62,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"eeaea12a-cee3-4e99-8efe-6a75978aa03e",
+                        "id":"cf5fea79-3cbb-4d44-beb7-40741d62f04a",
                         "level":0
                     }
                 ],
@@ -92,7 +92,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"eeaea12a-cee3-4e99-8efe-6a75978aa03e",
+                        "id":"cf5fea79-3cbb-4d44-beb7-40741d62f04a",
                         "alterId":0
                     }
                 ]
@@ -120,7 +120,7 @@
             "settings":{
                 "clients":[
                     {
-                        "password":"eeaea12a-cee3-4e99-8efe-6a75978aa03e"
+                        "password":"cf5fea79-3cbb-4d44-beb7-40741d62f04a"
                     }
                 ]
             },
